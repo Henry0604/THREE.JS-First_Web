@@ -1,8 +1,8 @@
 # THREE.JS-First_Web
+This project aims to provide an initial glimpse of the potential that THREE.js can offer in the development of 3D graphics on the Web.
 
-Este proyecto busca representar un primer vistazo del potencial que puede tener THREE.js en el desarrollo de gráficos 3D en la Web.
-
-Aquí se planteo el desarrollo de un cubo el cual recibirá luz para así generar una sombra que se vera reflejada en un plano. También posee orbita por lo cual se podrá hacer zoom y mover el plano.
+## Introduction
+Here, the development of a cube was proposed, which will receive light to generate a shadow that will be reflected on a plane. It also has an orbit, so you can zoom in and move the plane.
 
 **Normal**
 ![image](https://user-images.githubusercontent.com/113632465/227679751-61678c62-4a1e-45a7-ac6d-6ccff701c002.png)
@@ -12,3 +12,22 @@ Aquí se planteo el desarrollo de un cubo el cual recibirá luz para así genera
 
 **Moviendo el Plano**
 ![image](https://user-images.githubusercontent.com/113632465/227679897-e480b1ba-21be-4568-923d-dfe57c69a504.png)
+
+## Technologies used 
+
+The technologies used in this project are:
+
+ - Three.js
+ - HTML
+ - JavaScript
+
+## See Project
+
+You can see the project at this link [THREE.JS Web](https://three-js-cube-in-the-plane.netlify.app/).
+
+## Installation
+
+To deploy this project follow these steps
+
+1. Clone this repository on your computer.
+2. Open the file `index.html` to see the page in action.
