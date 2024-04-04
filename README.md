@@ -4,14 +4,17 @@ This project aims to provide an initial glimpse of the potential that THREE.js c
 ## Introduction
 Here, the development of a cube was proposed, which will receive light to generate a shadow that will be reflected on a plane. It also has an orbit, so you can zoom in and move the plane.
 
-**Normal**
-![image](https://user-images.githubusercontent.com/113632465/227679751-61678c62-4a1e-45a7-ac6d-6ccff701c002.png)
+| **Normal** | 
+| :-------- |
+| <img src="https://user-images.githubusercontent.com/113632465/227679751-61678c62-4a1e-45a7-ac6d-6ccff701c002.png" alt="TTHREE.JS" width="500" height="250" /> |
 
-**Con Zoom**
-![image](https://user-images.githubusercontent.com/113632465/227679876-1b3e0d02-204c-4f2d-833e-c2c39582dc59.png)
+| **With Zoom** | 
+| :-------- |
+| <img src="https://user-images.githubusercontent.com/113632465/227679876-1b3e0d02-204c-4f2d-833e-c2c39582dc59.png" alt="TTHREE.JS" width="500" height="250" /> |
 
-**Moviendo el Plano**
-![image](https://user-images.githubusercontent.com/113632465/227679897-e480b1ba-21be-4568-923d-dfe57c69a504.png)
+| **"Moving the plane"** | 
+| :-------- |
+| <img src="https://user-images.githubusercontent.com/113632465/227679897-e480b1ba-21be-4568-923d-dfe57c69a504.png" alt="TTHREE.JS" width="500" height="250" /> |
 
 ## Technologies used 
 
